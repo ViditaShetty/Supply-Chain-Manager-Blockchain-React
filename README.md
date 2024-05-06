@@ -1,8 +1,8 @@
 # Supply-Chain-Manager-Blockchain-React
-It leverages React.js for the frontend, offering a user-friendly UI for supply chain managers to track and manage logistics, inventory, and transactions securely on a blockchain network. The platform provides transparency, immutability, and traceability of goods throughout the supply chain, enhancing efficiency and reducing fraud risks.
-
 -> This is a decentralized application (dApp) built with React.js and integrated with blockchain technology. It facilitates a supply chain process involving sellers, buyers, and couriers, with three key statuses: "created," "paid," and "delivered." Sellers list products with names and costs in SepoliaETH, which are then created as orders with a "created" status.
+#####
 -> Buyers can purchase products by paying the price plus gas fees through MetaMask, providing delivery addresses. The orders are updated to "payed" status. 
+#####
 -> Couriers view paid products with addresses and mark them as delivered, triggering the "releasePayment" event to transfer money to the seller. The dApp enforces strict access control, allowing sellers ,buyers and couriers to access ONLY their respective dashboard, ensuring confidentiality and security in the supply chain process.
 -> Solidity contract is deployed using REMIX
 
