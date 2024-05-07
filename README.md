@@ -19,15 +19,16 @@ NOTE:
 ![image](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/5ef8dd6a-0f12-4ed6-b38e-9d8cdb8f5063)
 ##
 ![image](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/083fa63d-379f-4efc-8e6b-1452fa486bf0)
-### Creating New Listing
+### Seller DashBoard (Creating New Listing)
 ![image](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/dcce7d1a-5a74-40f8-9dfa-46ade7de50d0)
 ##
 
-## Guarded UI (Seller cannot access Buyer or Courier DashBoards)
+## Seller DashBoard has Guarded UI (Seller cannot access Buyer or Courier DashBoards)
 ![image](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/40837bf7-9c20-4d26-8091-06a1b43fe4a5)
 ##
 
 ## Buyer DashBoard (Buying a product)
+![Screenshot 2024-05-06 134758](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/9f1f188e-e8b7-40d9-b96f-fe03882512f7)
 ![image](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/b07e13b2-0477-484b-a6a1-ae2ffd6c4b75)
 ## 
 
@@ -38,7 +39,7 @@ NOTE:
 ##
 ![Screenshot 2024-05-06 135027](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/92a73a26-9d3f-40db-8b52-a624363ebc6a)
 ##
-### Releasing Payment to seller
+### Courier DashBoard (Releasing Payment to seller)
 ![Screenshot 2024-05-06 135101](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/f4c750ae-75ae-45b6-9e27-046a1dc0aa18)
 ##
 ![Screenshot 2024-05-06 135134](https://github.com/ViditaShetty/Supply-Chain-Manager-Blockchain-React/assets/96463276/1d66adcd-25fa-4e4f-9333-1b2f76922c5d)
